@@ -1,0 +1,28 @@
+body{
+    background-color: #393e46;
+  }
+  .cha{
+   display: flex; 
+   flex-wrap:wrap;
+   justify-content: space-between;
+   
+  color:  whitesmoke;
+  }
+  
+  
+  
+  .pho:hover{
+    transform: scale(1.1) rotate(0.1deg);
+    
+  } 
+   .b{
+     margin-bottom: 50px; 
+    align-items: center;
+   }
+  
+  .all{
+    background-color: #383e56;
+  }
+.input{
+margin-bottom: 15px; 
+}  
